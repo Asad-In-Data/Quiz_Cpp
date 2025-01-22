@@ -52,6 +52,7 @@ Leaderboard: The leaderboard ranks users based on their best scores, displayed i
 ![alt text](image.png)
 
 Error Checking: The Advanced quiz level validates user-provided C++ code for variable naming, semicolons, and required libraries.
+
 ![alt text](image-4.png)
 
 
