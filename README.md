@@ -36,10 +36,19 @@ Search for a specific user to view their total points, best score, and attempts.
 ## Results
 
 Records:
+
 ![alt text](image-1.png)
+
+
 Progress Tracking: User progress is stored in a file and retrieved upon login.
+
 ![alt text](image-2.png)
+
+
 Leaderboard: The leaderboard ranks users based on their best scores, displayed in descending order.
+
 ![alt text](image.png)
+
+
 Error Checking: The Advanced quiz level validates user-provided C++ code for variable naming, semicolons, and required libraries.
 
